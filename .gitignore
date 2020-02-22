@@ -1,0 +1,15 @@
+.externalToolBuilders
+.mymetadata
+.checkstyle
+.classpath
+.class
+.war
+.zip
+.rar
+.idea
+*.iml
+.settings/*
+/target/*
+*.db
+/target/
+.project
